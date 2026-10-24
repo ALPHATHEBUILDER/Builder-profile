@@ -47,7 +47,10 @@
       }
     ],
     "buttons": [
-      {
+      {{
+        "name": "Server 98Boosting",
+        "image": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
+        "color": "#3498db"
         "name": "Discord Support",
         "link": "https://discord.gg/gZKZQQdGMB",
         "icon": "fab fa-discord"
@@ -62,10 +65,13 @@
         "link": "https://github.com/tuzhicodes",
         "icon": "fab fa-github"
       },
-      {
+      {{
         "name": "YouTube",
         "link": "https://youtube.com/@TuZhiCodes",
-        "icon": "fab fa-youtube"
+        "icon": "fab fa-youtube
+        "name": "official",
+        "link": "https://youtube.com/@TuZhiCodes",
+        "icon": "fab fa-"
       }
     ],
     "about": "🐰 A Dreamer Who Never Sleeps !! 🐰\nDeveloper | Gamer | Content Creator",
